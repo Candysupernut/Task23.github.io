@@ -1,0 +1,144 @@
+
+body{
+background:#FFFAFA;}
+.index{
+	display:inline-block;
+margin:10px;
+padding:20px;
+position:absolute;
+left:1400px;
+top:5px;
+font-size:20px;
+background-color:white;
+color:green;
+border:5px solid white}
+.gallery{
+	display:inline-block;
+margin:10px;
+position:absolute;
+left:1550px;
+top:5px;
+color:black;
+padding:20px;
+font-size:20px;
+background-color:white;
+color:black;
+border:5px solid white}
+.form{
+	display:inline-block;
+margin:10px;
+position:absolute;
+left:1700px;
+top:5px;
+color:black;
+padding:20px;
+font-size:20px;
+background-color:white;
+color:black;
+border:5px solid white}
+li:hover>a{
+	background: white;
+	color:black;
+	font-weight: bold;
+	height:30px;
+	
+}
+.logotyp{
+	height:62px;
+	width:54px;
+	margin:10px;
+	color:black;
+}
+.logp{
+	height:320px;
+	width:304px;
+	margin:10px;
+	color:black;
+}
+header{
+	background-image:url("collage-fashion.gif") ;
+	top:-5px;left:-2px;
+	position:absolute;
+	height:200px;
+width:100%;}
+.stule{
+	left:760px;
+font-size:40px;
+color: #A52A2A ;
+font-family:fantasy;
+	position:absolute;
+top:300px;
+padding:20px;
+border:5px solid white;
+background-color:#FFE4E1;
+}.rig{
+	top:250px;left:1500px;
+	position:absolute;
+	height:900px;
+width:400px;
+}
+.lef{
+	top:250px;left:-2px;
+	position:absolute;
+	height:900px;
+width:400px;
+background-attachment:250 2;
+}
+.lof{
+	height:320px;
+width:300px;
+}
+ table{
+border-collapse: collapse;
+position:absolute;
+	top:500px;
+left:500px;
+}
+td,th{
+height: 120px;
+width: 300px;
+padding: 5px;
+text-align: center;
+	font-size:30px;
+
+}footer{
+	position:absolute;
+	height:500px;
+	width:100%;
+	background:#E6E6FA;
+	top:1400px;
+}
+.more{position:absolute;font-size:40px;
+left:720px;
+top:70px;
+color:#8B0000}
+a:link{
+		color: #800000;}
+	a:hover{color: #800000;}
+.about{
+	position:absolute;font-size:20px;
+left:520px;
+top:270px;
+color:#8B0000;}
+.team{
+	position:absolute;font-size:20px;
+left:720px;
+top:270px;
+color:#8B0000;}
+.news{
+	position:absolute;font-size:20px;
+left:930px;
+top:270px;
+color:#8B0000;}
+.contact{
+	position:absolute;font-size:20px;
+left:1150px;
+top:270px;
+color:#8B0000;
+}
+.rk20{position:absolute;
+	font-size:20px;
+left:700px;
+top:410px;
+color:#8B0000;
+}
