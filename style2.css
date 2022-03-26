@@ -54,10 +54,16 @@ li:hover>a{
 	width:304px;
 	margin:10px;
 	color:black;
-}
-header{
+}header{
+background-color:#8B0000;
+	top:-35px;left:-12px;
+	position:absolute;
+	height:300px;
+width:100%;}
+.lyp{
 	background-image:url("collage-fashion.gif") ;
-	top:-5px;left:-2px;
+	top:-15px;left:12px;
+	right:-15px
 	position:absolute;
 	height:200px;
 width:100%;}
