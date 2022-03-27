@@ -100,3 +100,38 @@ width: 300px;
 	background:#E6E6FA;
 	top:2400px;
 }
+.more{position:absolute;font-size:40px;
+left:720px;
+top:70px;
+color:#8B0000;
+list-style:none;}
+a:link{
+		color: #800000;}
+	a:hover{color: #800000;}
+.about{
+	position:absolute;font-size:20px;
+left:520px;
+top:270px;
+color:#8B0000;}
+.team{
+	position:absolute;font-size:20px;
+left:720px;
+top:270px;
+color:#8B0000;}
+.news{
+	position:absolute;font-size:20px;
+left:930px;
+top:270px;
+color:#8B0000;}
+.contact{
+	position:absolute;font-size:20px;
+left:1150px;
+top:270px;
+color:#8B0000;
+}
+.rk20{position:absolute;
+	font-size:20px;
+left:700px;
+top:410px;
+color:#8B0000;
+}

@@ -63,7 +63,7 @@ width:540px;
 }
 footer{
 	position:absolute;
-	height:100px;
+	height:500px;
 	width:100%;
 	background:lightblue;
 	top:1300px;
@@ -125,6 +125,7 @@ color:#8B0000;
 list-style:none;}
 a:link{
 		color: #800000;}
+		a:visited{color: #800000;}
 	a:hover{color: #800000;}
 .about{
 	position:absolute;font-size:20px;
